@@ -1,0 +1,41 @@
+{
+  "aulas": [
+    {
+      "professor": {
+        "name": "Dr. João Silva"
+      },
+      "assunto": "Matemática",
+      "alunos": [
+        {"name": "Carlos Almeida"},
+        {"name": "Mariana Santos"},
+        {"name": "Fernanda Costa"},
+        {"name": "Lucas Souza"}
+      ]
+    },
+    {
+      "professor": {
+        "name": "Profª. Ana Lima"
+      },
+      "assunto": "História",
+      "alunos": [
+        {"name": "Pedro Oliveira"},
+        {"name": "Julia Pereira"},
+        {"name": "Roberto Alves"},
+        {"name": "Camila Ribeiro"}
+      ]
+    },
+    {
+      "professor": {
+        "name": "Prof. Eduardo Moreira"
+      },
+      "assunto": "Física",
+      "alunos": [
+        {"name": "Gustavo Martins"},
+        {"name": "Aline Fernandes"},
+        {"name": "Ricardo Araújo"},
+        {"name": "Bruna Mendes"}
+      ]
+    }
+  ]
+}
+
